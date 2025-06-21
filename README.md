@@ -14,12 +14,19 @@ This app leverages [Cohere's AI API](https://cohere.com/) and a modern Streamlit
 
 ---
 
+## 🌐 Live App
+
+Check out the deployed Dockerfile Generator here:  
+[https://dockerfile-generator.streamlit.app/](https://dockerfile-generator.streamlit.app/)
+
+---
+
 ## 🖥️ Demo
 
 ![App Screenshot](https://github.com/its-me-Arijit/dockerfile-generator/raw/main/Screenshot%202025-06-21%20152523.png)
 
-
 ![App Screenshot](https://github.com/its-me-Arijit/dockerfile-generator/blob/main/Screenshot%202025-06-21%20152801.png)
+
 ---
 
 ## 🚦 Quickstart
