@@ -29,6 +29,37 @@ Check out the deployed Dockerfile Generator here:
 
 ---
 
+## 📊 Flow Diagram
+
+Here's a simple flow diagram showing how the application works:
+
+```
+User (Browser)
+    │
+    ▼
+Streamlit UI (`app.py`)
+    │
+    ▼
+Calls function in
+`generate_dockerfile.py`
+    │
+    ▼
+Dockerfile Generation Logic
+    │
+    ▼
+Returns Dockerfile string
+    │
+    ▼
+Streamlit UI displays Dockerfile
+```
+
+- **User interacts** with the web app via Streamlit.
+- **Streamlit UI** takes user input and calls a function from the backend logic.
+- **Backend logic** (`generate_dockerfile.py`) generates the Dockerfile based on the input.
+- **Result** is displayed in the web UI for the user to copy and use.
+
+---
+
 ## 🚦 Quickstart
 
 ### 1. Clone the repo
