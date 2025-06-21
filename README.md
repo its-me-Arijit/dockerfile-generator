@@ -16,7 +16,7 @@ This app leverages [Cohere's AI API](https://cohere.com/) and a modern Streamlit
 
 ## 🖥️ Demo
 
-![App Screenshot](.github/app-screenshot.png)  
+![App Screenshot](.github/Screenshot 2025-06-21 152523.png)  
 *Replace this screenshot with your own!*
 
 ---
