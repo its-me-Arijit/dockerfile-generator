@@ -16,9 +16,10 @@ This app leverages [Cohere's AI API](https://cohere.com/) and a modern Streamlit
 
 ## 🖥️ Demo
 
-![App Screenshot]([.github/Screenshot 2025-06-21 152523.png](https://github.com/its-me-Arijit/dockerfile-generator/blob/main/Screenshot%202025-06-21%20152523.png))  
-*Replace this screenshot with your own!*
+![App Screenshot](https://github.com/its-me-Arijit/dockerfile-generator/raw/main/Screenshot%202025-06-21%20152523.png)
 
+
+![App Screenshot](https://github.com/its-me-Arijit/dockerfile-generator/blob/main/Screenshot%202025-06-21%20152801.png)
 ---
 
 ## 🚦 Quickstart
