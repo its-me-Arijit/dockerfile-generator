@@ -119,17 +119,11 @@ Contributions welcome!
 
 ---
 
-## 📄 License
-
-MIT. See [LICENSE](LICENSE).
-
----
-
 ## 🙏 Credits
 
 - [Streamlit](https://streamlit.io/)
 - [Cohere](https://cohere.com/)
-- [YourName](https://github.com/yourusername) (Project Author)
+- [Arijit Ghosh](https://github.com/its-me-arijit) (Project Author)
 
 ---
 
